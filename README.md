@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently studying
+👋 Hi, I'm Manan Mehulkumar Panchal, a passionate Java Full-Stack Developer with expertise in Spring Boot, Android Development, and Mainframe Technology. Currently pursuing Computer Programming and Analysis at Georgian College, I thrive on building scalable applications and solving complex problems. I have experience with Node.js, Express.js, MongoDB, and modern front-end technologies. My projects range from enterprise applications to AI and quantum computing explorations. I enjoy sharing knowledge, whether through teaching peers or working on open-source contributions. Always eager to learn and improve, I focus on clean code, system design, and software engineering principles. Looking forward to collaborating on exciting projects! 🚀
+
+💡 Let’s connect and build something amazing together!
 
 
 ## 🌐 Socials:
